@@ -1,16 +1,22 @@
 {
-  "name": "bot",
-  "version": "0.0.0",
-  "private": true,
+  "name": "bot-rest-api",
+  "version": "1.0.0",
+  "description": "loads stuff for the discord bot!",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leynabajaj/bot.git"
+  },
+  "author": "Leyna Bajaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leynabajaj/bot/issues"
+  },
+  "homepage": "https://github.com/leynabajaj/bot#readme",
   "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.1"
+    "express": "^4.18.1"
   }
 }
