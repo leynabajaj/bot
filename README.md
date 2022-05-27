@@ -1,0 +1,2 @@
+#Bot
+Currently a work in progress but this will be a discord bot to help reintroduce me and my friend to the fundamentals of some full stack infrastructure. I am rusty when it comes to some of these tools like MongoDB and node w/ express. Cool!
