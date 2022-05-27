@@ -1,2 +1,2 @@
-#Bot
-Currently a work in progress but this will be a discord bot to help reintroduce me and my friend to the fundamentals of some full stack infrastructure. I am rusty when it comes to some of these tools like MongoDB and node w/ express. Cool!
+# bot
+Currently a work in progress. Me and my themboss friend wanted a fun way to ease back into some practices for software development. Please be nice <3 
